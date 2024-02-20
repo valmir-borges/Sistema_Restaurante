@@ -1,0 +1,209 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Sistema_Restaurante
+build_property.RootNamespace = Sistema_Restaurante
+build_property.ProjectDir = C:\Users\Aluno\Desktop\Sprint 4\Sistema_Restaurante\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Aluno\Desktop\Sprint 4\Sistema_Restaurante
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Categoria/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Categoria/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Categoria/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Categoria/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Categoria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Cliente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Fornecedor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Fornecedor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Fornecedor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Fornecedor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Fornecedor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Garcom/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FyY29tXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Garcom/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FyY29tXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Garcom/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FyY29tXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Garcom/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FyY29tXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Garcom/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FyY29tXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Pagamento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Pagamento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Pagamento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Pagamento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Pagamento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Prato/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhdG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Prato/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhdG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Prato/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhdG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Prato/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhdG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Prato/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/VendaHasProduto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFIYXNQcm9kdXRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/VendaHasProduto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFIYXNQcm9kdXRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/VendaHasProduto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFIYXNQcm9kdXRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/VendaHasProduto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFIYXNQcm9kdXRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/VendaHasProduto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFIYXNQcm9kdXRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Venda/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Venda/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Venda/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Venda/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Venda/Impressao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFcSW1wcmVzc2FvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Venda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/Desktop/Sprint 4/Sistema_Restaurante/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-las6fh7h0q

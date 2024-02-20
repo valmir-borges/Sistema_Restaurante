@@ -1,0 +1,54 @@
+.detalhes {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 80%;
+    height: 70%;
+    border: 2px solid black;
+    align-items: center;
+    text-align: center
+}
+
+.col-sm-2 {
+    color: #CAB0A3;
+    font-size: 2rem;
+    font-weight: bolder;
+    width: 50%
+}
+
+.col-sm-10 {
+    font-size: 2rem;
+    width: 100%
+}
+
+.titulo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    color: darkred  
+}
+
+    .titulo span {
+        font-size: 4rem
+    }
+
+.medico {
+    height: 10rem;
+    width: 11rem;
+}
+
+.name {
+    color: #CAB0A3;
+}
+
+h3 {
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #CAB0A3
+}
+
+.nomeproduto {
+    font-size: 2rem;
+}

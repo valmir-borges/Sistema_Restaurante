@@ -1,0 +1,76 @@
+﻿@model Sistema_Restaurante.Models.Venda
+
+@{
+    Layout = null;
+}
+<link href="~/css/Impressao2.css" rel="stylesheet" />
+
+<div>
+    <div class="titulo">
+        <span>Detalhes da Venda</span>
+    </div>
+    <hr />
+    <dl class="row">
+        <div class="detalhes">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.ValorTotal)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.ValorTotal)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Data)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Data)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Cliente)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Cliente.NomeCliente)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Garcom)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Garcom.NomeGarcom)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Pagamento)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Pagamento.FormaPagamento)
+            </dd>
+            <table>
+                <thead>
+                    <tr>
+                        <h3>Produtos da Venda</h3>
+                    </tr>
+                <th></th>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.ProdutoList)
+                    {
+                        <tr>
+                            <td class="nomeproduto">
+                                @Html.DisplayFor(modelItem=> item.Prato.NomePrato)
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </dl>
+</div>
+
+<br />
+<br />
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

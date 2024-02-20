@@ -1,0 +1,30 @@
+﻿@model Sistema_Restaurante.Models.Garcom
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Garcom</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NomeGarcom)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NomeGarcom)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IdadeGarcom)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdadeGarcom)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
